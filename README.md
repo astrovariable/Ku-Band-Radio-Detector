@@ -9,3 +9,4 @@ The receiver chain is entirely passive-to-DC: the LNB downconverts 10.7–11.7 G
 
 Performance is measured rather than assumed. Hot/cold comparison between ground and zenith sky gives a system temperature of roughly 80–95 K. The Sun raises the received power by 3.33 dB above the cold-sky baseline, against a baseline scatter of 0.2 counts — a detection at better than eighty times the noise. A geostationary satellite gives 6.45 dB. The instrument has also recorded aircraft passing roughly 15° from the pointing axis, detected through antenna sidelobes and confirmed independently against flight-tracking data.
 
+UPDATE: An alt-az mount fabrication for the dish is in progress.
